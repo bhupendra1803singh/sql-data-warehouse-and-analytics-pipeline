@@ -1,4 +1,5 @@
-# sql-data-warehouse-project
+# sql-data-warehouse-project <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/817b0657-d407-4bad-8439-3560daf91553" />
+
 Built a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics.
 
 ## 🚀 Project Requirements
