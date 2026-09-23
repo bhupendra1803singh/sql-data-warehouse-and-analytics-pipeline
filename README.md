@@ -63,7 +63,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 ## 📂 Repository Structure
 ```
-sql-data-warehouse-pipeline/
+sql-data-warehouse-and-analytics-pipeline/
 │
 ├── analysis/                           # SQL scripts & analytics pipeline diagram for analysis
 │
