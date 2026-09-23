@@ -86,3 +86,11 @@ sql-data-warehouse-pipeline/
 └── README.md                           # Project overview and instructions
 ```
 ---
+
+## 🛠️ Tech Stack
+
+- **Database:** Microsoft SQL Server & T-SQL
+- **Data Warehousing:** ETL Pipelines, Medallion Architecture, Dimensional Modeling & Star Schema
+- **Analytics:** SQL-based Business Analytics, Advanced SQL, CTEs, Window Functions, Aggregations etc
+
+---
