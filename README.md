@@ -20,8 +20,12 @@ The data architecture for this project follows Medallion Architecture -> **Bronz
 
 ![Data Architecture](docs/data_architecture.png)
 
+---
+
 **Analytics:** 
+
 ![Analytics Pipeline](analysis/analytics_pipeline_structure.png)
+
 ---
 
 ## 📖 Project Overview
