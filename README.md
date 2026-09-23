@@ -20,8 +20,6 @@ The data architecture for this project follows Medallion Architecture -> **Bronz
 
 ![Data Architecture](docs/data_architecture.png)
 
----
-
 **Analytics:** 
 
 ![Analytics Pipeline](analysis/analytics_pipeline_structure.png)
@@ -66,7 +64,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 ```
 sql-data-warehouse-pipeline/
 │
-├── analysis/                           # SQL scripts & analytics pipeline diagram for analytics
+├── analysis/                           # SQL scripts & analytics pipeline diagram for analysis
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 |
@@ -75,7 +73,7 @@ sql-data-warehouse-pipeline/
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── data_flow.png                   # Data flow diagram
 |   ├── data_integration.png            # Data tables integration and connectivity diagram
-│   ├── data_models.png                 # Data model (star schema)
+│   ├── data_models.png                 # Data model (Star Schema)
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
